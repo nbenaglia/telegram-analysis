@@ -1,0 +1,12 @@
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+venv
+.ipynb_checkpoints
+.projectignore
+*.session
+*.json
+*.ipynb
+config.ini
